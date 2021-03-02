@@ -1,6 +1,6 @@
 # "Choir Buddy" Android App
 
-This is official page (in form of github repository) about an Android application available in Play store.
+This is official page (in form of github repository) about an Android application ["Choir Buddy"](https://play.google.com/store/apps/details?id=pl.waw.echo.choirbuddy) available in Play store.
 
 ## Changelog
 
